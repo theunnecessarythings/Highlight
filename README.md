@@ -21,4 +21,4 @@ Each time you click on highlight it will generate a different color pallette, th
 And you can even modify the materials that are created to suit your own needs.
 
 ## Demo
-![Demo](https://www.youtube.com/watch?v=5VMk2yTusoA)
+[Demo](https://www.youtube.com/watch?v=5VMk2yTusoA)
